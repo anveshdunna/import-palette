@@ -1,0 +1,1 @@
+{"api":"1.0.0","editorType":["figma"],"id":"1447606439289139799","name":"Import Lospec palette","main":"build/main.js","ui":"build/ui.js","networkAccess":{"allowedDomains":["https://lospec.com"]},"documentAccess":"dynamic-page"}
